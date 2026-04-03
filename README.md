@@ -27,13 +27,15 @@ An AI-powered web app that analyzes resumes based on job roles and provides **sc
 ---
 
 ## 📂 Project Structure
+
+```
 ├── app.py
 ├── users.json
 ├── history.json
 ├── .env
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
