@@ -32,7 +32,7 @@ An AI-powered web app that analyzes resumes based on job roles and provides **sc
 ├── history.json
 ├── .env
 ├── .gitignore
-└── README.m
+└── README.md
 
 
 ---
