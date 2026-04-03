@@ -1,22 +1,21 @@
 📄 AI Resume Analyzer Pro 🚀
-
 An AI-powered web app that analyzes resumes based on job roles and provides score, strengths, weaknesses, and suggestions.
 
 ✨ Features
-🔐 User Authentication (Login / Sign Up)
-📄 Upload Resume (PDF)
-🧠 AI Resume Analysis (using Groq API)
-📊 Score + Feedback
-💾 Download Report
-🕘 User Session Handling
+1.🔐 User Authentication (Login / Sign Up)
+2.📄 Upload Resume (PDF)
+3.🧠 AI Resume Analysis (using Groq API)
+4.📊 Score + Feedback
+5.💾 Download Report
+6.🕘 User Session Handling
 
 🛠️ Tech Stack
-Python 🐍
-Streamlit 🎨
-Groq API 🤖
-PyPDF2 📄
-bcrypt 🔐
-JSON (for storage)
+1.Python 🐍
+2.Streamlit 🎨
+3.Groq API 🤖
+4.PyPDF2 📄
+5.bcrypt 🔐
+6.JSON (for storage)
 
 📂 Project Structure
 ├── app.py
