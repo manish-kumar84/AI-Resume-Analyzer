@@ -34,7 +34,6 @@ An AI-powered web app that analyzes resumes based on job roles and provides **sc
 ├── .gitignore
 └── README.md
 
-
 ---
 
 ## ⚙️ Installation & Setup
